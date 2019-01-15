@@ -1,0 +1,9 @@
+ca/mylearning/student/Application.class
+ca/mylearning/student/resource/StudentController.class
+ca/mylearning/student/model/Student.class
+ca/mylearning/student/config/SecurityConfig.class
+ca/mylearning/student/resource/StudentNotFoundAdvice.class
+ca/mylearning/student/resource/StudentResourceAssembler.class
+ca/mylearning/student/repository/StudentRepository.class
+ca/mylearning/student/config/StudentDb.class
+ca/mylearning/student/resource/StudentNotFoundException.class

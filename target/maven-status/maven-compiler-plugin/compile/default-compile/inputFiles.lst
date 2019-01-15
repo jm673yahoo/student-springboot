@@ -1,0 +1,9 @@
+/Users/mmiao/spring/src/main/java/ca/mylearning/student/model/Student.java
+/Users/mmiao/spring/src/main/java/ca/mylearning/student/resource/StudentResourceAssembler.java
+/Users/mmiao/spring/src/main/java/ca/mylearning/student/config/SecurityConfig.java
+/Users/mmiao/spring/src/main/java/ca/mylearning/student/resource/StudentController.java
+/Users/mmiao/spring/src/main/java/ca/mylearning/student/repository/StudentRepository.java
+/Users/mmiao/spring/src/main/java/ca/mylearning/student/config/StudentDb.java
+/Users/mmiao/spring/src/main/java/ca/mylearning/student/resource/StudentNotFoundAdvice.java
+/Users/mmiao/spring/src/main/java/ca/mylearning/student/Application.java
+/Users/mmiao/spring/src/main/java/ca/mylearning/student/resource/StudentNotFoundException.java
