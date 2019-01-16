@@ -2,6 +2,7 @@
 It is a simple service build by Springboot, JPA. There are two endpoints for now to access the student data.
 
 _localhost:8080/students/2_
+
 **Response:**
 
 {
@@ -20,6 +21,7 @@ _localhost:8080/students/2_
 
 _localhost:8080/students_
 
+**Response:**
 {
     "_embedded": {
         "students": [
