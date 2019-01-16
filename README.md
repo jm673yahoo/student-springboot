@@ -22,6 +22,7 @@ _localhost:8080/students/2_
 _localhost:8080/students_
 
 **Response:**
+
 {
     "_embedded": {
         "students": [
