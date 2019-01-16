@@ -1,7 +1,7 @@
 # student-springboot
 It is a simple service build by Springboot, JPA. There are two endpoints for now to access the student data.
 
-### localhost:8080/students/2
+### localhost:8080/students/2 - GET
 
 **Response:**
 
@@ -19,7 +19,7 @@ It is a simple service build by Springboot, JPA. There are two endpoints for now
      }
  }
 
-### localhost:8080/students
+### localhost:8080/students - GET
 
 **Response:**
 
